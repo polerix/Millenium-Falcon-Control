@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/mlms13/pen/CGgLF.
+
+ You can't give a table rounded corners when the border is collapsed, but you can fake it...
